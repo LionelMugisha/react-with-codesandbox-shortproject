@@ -12,7 +12,9 @@ function MainSection() {
         In hac habitasse platea dictumst.Duis gravida lectus justo. Ut fringilla
         eget.
       </p>
-      <Button caption="Button" />
+      <div className="flex justify-center">
+        <Button caption="Button" />
+      </div>
     </React.Fragment>
   );
 }
